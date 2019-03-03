@@ -15,7 +15,7 @@
 <ul>
  <li>SQL Server Express 2012 or last version</li>
  <li>NET Framework 4.5</li>
- <li>IIS 8 ord last version</li>
+ <li>IIS 8 or last version</li>
 </ul>
 <p>2. Install this app.</p>
 <p>3. Change server connect MtoConnectionString in Web.config</p>

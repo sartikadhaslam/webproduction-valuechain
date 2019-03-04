@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <group Text="Master">
+    <item Text="Barang" NavigateUrl="~/Menu/Master/Barang.aspx" ImageURL="~/Content/Images/Icons/barang.png"/>
+    <item Text="Bahan Baku" NavigateUrl="~/Menu/Master/BahanBaku.aspx" ImageURL="~/Content/Images/Icons/bahan_baku.png"/>
+    <item Text="Wilayah" NavigateUrl="~/Menu/Master/Wilayah.aspx" ImageURL="~/Content/Images/Icons/wilayah.png"/>
+    <item Text="Satuan" NavigateUrl="~/Menu/Master/Satuan.aspx" ImageURL="~/Content/Images/Icons/satuan.png"/>
+    <item Text="Gudang" NavigateUrl="~/Menu/Master/Gudang.aspx" ImageURL="~/Content/Images/Icons/gudang.png"/>
+  </group>
+  <group Text="Relasi">
+    <item Text="Sales" NavigateUrl="~/Menu/Relasi/Sales.aspx" ImageURL="~/Content/Images/Icons/sales.png"/>
+    <item Text="Customer" NavigateUrl="~/Menu/Relasi/Customer.aspx" ImageURL="~/Content/Images/Icons/customer.png"/>
+    <item Text="Supplier" NavigateUrl="~/Menu/Relasi/Supplier.aspx" ImageURL="~/Content/Images/Icons/supplier.png"/>
+  </group>
+  <group Text="Sales">
+    <item Text="Sales Order"  NavigateUrl="~/Menu/Sales/SalesOrder.aspx" ImageURL="~/Content/Images/Icons/salesorder.png"/>
+    <item Text="Faktur"  NavigateUrl="~/Menu/Sales/Faktur.aspx" ImageURL="~/Content/Images/Icons/bills.png"/>
+  </group>
+  <group Text="Inbound Logistic">
+    <item Text="Purchase Request" NavigateUrl="~/Menu/Inbound/PurchaseOrder.aspx" ImageURL="~/Content/Images/Icons/purchaseorder.png"/>
+    <item Text="Purchase" NavigateUrl="~/Menu/Inbound/Purchase.aspx" ImageURL="~/Content/Images/Icons/purchase.png"/>
+    <item Text="Adjustment" NavigateUrl="~/Menu/Inbound/Adjustment.aspx" ImageURL="~/Content/Images/Icons/adjustment.png"/>
+    <!--<item Text="Opname" NavigateUrl="~/Menu/Inbound/Opname.aspx" ImageURL="~/Content/Images/Icons/opname.png"/>-->
+  </group>
+  <group Text="Operation Production">
+    <item ID="" Text="Production Request" NavigateUrl="~/Menu/Production/SalesOrder.aspx" ImageURL="~/Content/Images/Icons/productionrequest.png"/>
+    <item Text="Production" NavigateUrl="~/Menu/Sales/Production.aspx" ImageURL="~/Content/Images/Icons/production.png"/>
+  </group>
+  <group Text="Outbound Logistic">
+    <!--<item Text="Packing" NavigateUrl="~/Menu/Outbound/Packing.aspx" ImageURL="~/Content/Images/Icons/packing.png"/>
+    <item Text="Storing" NavigateUrl="~/Menu/Outbound/Storing.aspx" ImageURL="~/Content/Images/Icons/storing.png"/>-->
+    <item Text="Shipping" NavigateUrl="~/Menu/Outbound/Shipping.aspx" ImageURL="~/Content/Images/Icons/shipping.png"/>
+  </group>
+<group Text="Laporan">
+    <item Text="Laporan Pesanan " NavigateUrl="~/Menu/Outbound/Packing.aspx" ImageURL="~/Content/Images/Icons/packing.png"/>
+    <item Text="Laporan Produksi" NavigateUrl="~/Menu/Outbound/Storing.aspx" ImageURL="~/Content/Images/Icons/storing.png"/>-->
+    <item Text="Laporan Bahan Baku" NavigateUrl="~/Menu/Outbound/Shipping.aspx" ImageURL="~/Content/Images/Icons/shipping.png"/>
+    <item Text="Laporan Pengiriman" NavigateUrl="~/Menu/Outbound/Storing.aspx" ImageURL="~/Content/Images/Icons/storing.png"/>-->
+    <!--<item Text="Laporan Pembayaran" NavigateUrl="~/Menu/Outbound/Shipping.aspx" ImageURL="~/Content/Images/Icons/shipping.png"/>
+    <item Text="Laporan Piutang" NavigateUrl="~/Menu/Outbound/Shipping.aspx" ImageURL="~/Content/Images/Icons/shipping.png"/>-->
+  </group>
+</menu>

@@ -1,4 +1,4 @@
-# Web Production App with Value Chain Concept (C#, ASP.NET 4.5, SQL Server 2012 and Devexpress 17.1.3)
+# Web Production App with Value Chain Concept (C#, ASP.NET 4.5, SQL Server 2012 and Devexpress 17.1.3 Trial)
 <p>This web app have some fiture :</p>
 <ul>
  <li>Master Data</li>
